@@ -1,7 +1,7 @@
 # Bienvenue sur Vroom Vroom Front 👋
-[![Github: \_Abdramane Diarra ](https://github.com/AbdeDev)
+[Github: \_Abdramane Diarra ](https://github.com/AbdeDev)
 
-[![Github: \_Sandie Ouallet ](https://github.com/Ouallet-Sandie)
+[Github: \_Sandie Ouallet ](https://github.com/Ouallet-Sandie)
 
 
 ## 📝 Description 
