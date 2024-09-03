@@ -1,9 +1,12 @@
 # Bienvenue sur Vroom Vroom Front 👋
-[![Github: \_Abdramane Diarra ]([https://github.com/Ouallet-Sandie](https://github.com/AbdeDev?tab=repositories))
+[![Github: \_Abdramane Diarra ](https://github.com/AbdeDev)
 
 [![Github: \_Sandie Ouallet ](https://github.com/Ouallet-Sandie)
 
 
+## 📝 Description 
+
+Le projet est deployer sur vercel !
 
 ## 🚀 Déployer (bientot)
 
